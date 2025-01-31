@@ -1,2 +1,2 @@
 # MediCore
-A Hospital Management System
+A comprehensive hospital management system streamlining patient care, appointments, and medical records with efficiency and precision.
